@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "VCcZBlOIUrbj4Sw1eiZgP+D9bPRRWC3S0hBnabMw3QvWvut9LTXbxt5uHyTmk2MySyYk1dbp2KR6xfcYDMN40g==",
+  "success": true,
+  "projectFilePath": "/home/martin_knox/MK/MysticKoder/Hacker/ApplicationUpdaterSolution/UpdateService/UpdateService.csproj",
+  "expectedPackageFiles": [
+    "/home/martin_knox/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/martin_knox/.nuget/packages/microsoft.netcore.app.runtime.win-x64/6.0.8/microsoft.netcore.app.runtime.win-x64.6.0.8.nupkg.sha512",
+    "/home/martin_knox/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/martin_knox/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/6.0.8/microsoft.aspnetcore.app.runtime.win-x64.6.0.8.nupkg.sha512",
+    "/home/martin_knox/.nuget/packages/microsoft.netcore.app.host.win-x64/6.0.8/microsoft.netcore.app.host.win-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdaterUtilities", "UpdaterUtilities\UpdaterUtilities.csproj", "{A2A1C859-760D-4F39-91EC-2ED8D5B8CE71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateService", "UpdateService\UpdateService.csproj", "{AF0AEC9A-2023-43B5-9E4C-BBC92986A2F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2A1C859-760D-4F39-91EC-2ED8D5B8CE71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A1C859-760D-4F39-91EC-2ED8D5B8CE71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A1C859-760D-4F39-91EC-2ED8D5B8CE71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A1C859-760D-4F39-91EC-2ED8D5B8CE71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF0AEC9A-2023-43B5-9E4C-BBC92986A2F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF0AEC9A-2023-43B5-9E4C-BBC92986A2F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF0AEC9A-2023-43B5-9E4C-BBC92986A2F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF0AEC9A-2023-43B5-9E4C-BBC92986A2F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
